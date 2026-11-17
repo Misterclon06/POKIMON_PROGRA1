@@ -1,0 +1,139 @@
+18
+normal
+fuego
+agua
+planta
+electrico
+hielo
+lucha
+veneno
+tierra
+volador
+psiquico
+bicho
+roca
+fantasma
+dragon
+siniestro
+acero
+hada
+normal roca 0.5
+normal fantasma 0
+normal acero 0.5
+fuego fuego 0.5
+fuego agua 0.5
+fuego planta 2
+fuego hielo 2
+fuego bicho 2
+fuego roca 0.5
+fuego dragon 0.5
+fuego acero 2
+agua fuego 2
+agua agua 0.5
+agua planta 0.5
+agua tierra 2
+agua roca 2
+agua dragon 0.5
+planta fuego 0.5
+planta agua 2
+planta planta 0.5
+planta veneno 0.5
+planta tierra 2
+planta volador 0.5
+planta bicho 0.5
+planta roca 2
+planta dragon 0.5
+planta acero 0.5
+electrico agua 2
+electrico planta 0.5
+electrico electrico 0.5
+electrico tierra 0
+electrico volador 2
+electrico dragon 0.5
+hielo fuego 0.5
+hielo agua 0.5
+hielo planta 2
+hielo hielo 0.5
+hielo tierra 2
+hielo volador 2
+hielo dragon 2
+hielo acero 0.5
+lucha normal 2
+lucha hielo 2
+lucha veneno 0.5
+lucha volador 0.5
+lucha psiquico 0.5
+lucha bicho 0.5
+lucha roca 2
+lucha fantasma 0
+lucha siniestro 2
+lucha acero 2
+lucha hada 0.5
+veneno planta 2
+veneno veneno 0.5
+veneno tierra 0.5
+veneno roca 0.5
+veneno fantasma 0.5
+veneno acero 0
+veneno hada 2
+tierra fuego 2
+tierra planta 0.5
+tierra electrico 2
+tierra veneno 2
+tierra volador 0
+tierra bicho 0.5
+tierra roca 2
+tierra acero 2
+volador planta 2
+volador electrico 0.5
+volador lucha 2
+volador bicho 2
+volador roca 0.5
+volador acero 0.5
+psiquico lucha 2
+psiquico veneno 2
+psiquico psiquico 0.5
+psiquico siniestro 0
+psiquico acero 0.5
+bicho fuego 0.5
+bicho planta 2
+bicho lucha 0.5
+bicho veneno 0.5
+bicho volador 0.5
+bicho psiquico 2
+bicho fantasma 0.5
+bicho siniestro 2
+bicho acero 0.5
+bicho hada 0.5
+roca fuego 2
+roca hielo 2
+roca lucha 0.5
+roca tierra 0.5
+roca volador 2
+roca bicho 2
+roca acero 0.5
+fantasma normal 0
+fantasma psiquico 2
+fantasma fantasma 2
+fantasma siniestro 0.5
+dragon dragon 2
+dragon acero 0.5
+dragon hada 0
+siniestro lucha 0.5
+siniestro psiquico 2
+siniestro fantasma 2
+siniestro siniestro 0.5
+siniestro hada 0.5
+acero fuego 0.5
+acero agua 0.5
+acero electrico 0.5
+acero hielo 2
+acero roca 2
+acero acero 0.5
+acero hada 2
+hada fuego 0.5
+hada lucha 2
+hada veneno 0.5
+hada dragon 2
+hada siniestro 2
+hada acero 0.5
